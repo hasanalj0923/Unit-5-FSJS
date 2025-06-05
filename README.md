@@ -1,5 +1,5 @@
 # Project Title  
-# Public API Requests
+## Public API Requests
 
 ## Getting Started
 
