@@ -1,3 +1,4 @@
+# Project Title  
 # Public API Requests
 
 ## Getting Started
@@ -15,11 +16,6 @@ Start typing in the search box to instantly filter employees by name.
 - Switched the font to **Roboto** for a clean, modern look.  
 - Added subtle box shadows on cards when hovered for better visual feedback.  
 - Smooth transitions on card hover for improved user experience.
-
-## Installing
-
-No installation needed unless your browser is outdated.  
-If you experience issues, please update your browser to the latest version.
 
 ****  
 ## Deployment
